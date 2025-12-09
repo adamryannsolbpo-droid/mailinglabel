@@ -1,0 +1,5 @@
+{
+  "name": "AutoLabel Pro",
+  "description": "A professional bulk mailing label generator. Upload CSV/Excel files, automatically clean and merge data, handle address fallbacks, and generate print-ready PDFs for standard Avery templates.",
+  "requestFramePermissions": []
+}
